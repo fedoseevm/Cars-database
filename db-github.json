@@ -1,13 +1,13 @@
 [
     {
       "id": 1,
-      "modelname": "Accord",
+      "modelname": "Accord-EuroR",
       "manufacturer": "Honda",
       "year": 2019,
       "horsepower": 192,
       "fueltype": "Diesel",
       "price": 24900,
-      "img": "https://media.istockphoto.com/id/1083986684/pl/zdj%C4%99cie/honda-accord.jpg?s=612x612&w=0&k=20&c=1XYeQN4fwm6T9OecSDdYvu-iRbNmF-oluKXtoMJTzuw="
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/IHonda_Accord-EuroR_CL1_0098.JPG/640px-IHonda_Accord-EuroR_CL1_0098.JPG"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
       "horsepower": 158,
       "fueltype": "Gasoline",
       "price": 21900,
-      "img": "https://images.pexels.com/photos/6794815/pexels-photo-6794815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Honda_6BA-FL1_Civic_LX.jpg/640px-Honda_6BA-FL1_Civic_LX.jpg"
     },
     {
       "id": 4,
@@ -47,7 +47,7 @@
       "horsepower": 188,
       "fueltype": "Diesel",
       "price": 24980,
-      "img": "https://cdn.pixabay.com/photo/2015/08/11/22/33/nissan-885308_1280.jpg"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2019_Nissan_Altima_SR_AWD%2C_front_9.30.19.jpg/640px-2019_Nissan_Altima_SR_AWD%2C_front_9.30.19.jpg"
     },
     {
       "id": 6,
