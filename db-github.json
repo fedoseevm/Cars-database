@@ -1,13 +1,13 @@
 [
     {
       "id": 1,
-      "modelname": "Accord-EuroR",
+      "modelname": "Accord CV3",
       "manufacturer": "Honda",
-      "year": 2019,
+      "year": 2021,
       "horsepower": 192,
       "fueltype": "Diesel",
       "price": 24900,
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/IHonda_Accord-EuroR_CL1_0098.JPG/640px-IHonda_Accord-EuroR_CL1_0098.JPG"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Honda_Accord_%28CV3%29_EX_eHEV%2C_2021%2C_front.jpg/800px-Honda_Accord_%28CV3%29_EX_eHEV%2C_2021%2C_front.jpg"
     },
     {
       "id": 2,
